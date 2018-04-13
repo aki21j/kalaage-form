@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-Install npm if not present, then continue with the steps:
+First install 'npm' package if not present, then continue with the following steps:
 
 
 ``` bash
