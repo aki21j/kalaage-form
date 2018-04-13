@@ -4,6 +4,9 @@
 
 ## Build Setup
 
+Install npm if not present, then continue with the steps:
+
+
 ``` bash
 # install dependencies
 npm install
